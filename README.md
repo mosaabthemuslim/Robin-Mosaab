@@ -20,7 +20,8 @@
 **server.js for running the server and app.js using the routes files in the routes folder, and also modules about security**.
 **Link about postman docs is here:
 https://documenter.getpostman.com/view/22054966/2s9YC1WZoX**.
-**To use the app with your own DB you can change the URL in the config.env file this way you can connect to your own cluster**.
+**To use the app with your own DB you can change the URL in the config.env file this way you can connect to your own cluster**.\n
+**use npm start to start the server**
 
 
 
