@@ -14,13 +14,17 @@
 **Inside commentModel.js and replyModel.js there is comments about the code and some of the functionality in the code**.
 **Inside userModel there are comments about the code and there are methods that we will be using in the ./controllers/authController.js file**.
 ### Routes folder contains:
-**homeRouter file for post and comment and reply and follow routes to use them with with thier Controllers**.
+**homeRouter file for post and comment and reply and follow routes to use them with with thier Controllers**.  
+
 **userRouter for authentication and following users**.
 #### Other files.
-**server.js for running the server and app.js using the routes files in the routes folder, and also modules about security**.
+**server.js for running the server and app.js using the routes files in the routes folder, and also modules about security**.  
+
 **Link about postman docs is here:
-https://documenter.getpostman.com/view/22054966/2s9YC1WZoX**.
-**To use the app with your own DB you can change the URL in the config.env file this way you can connect to your own cluster**.\n
+https://documenter.getpostman.com/view/22054966/2s9YC1WZoX**.  
+
+**To use the app with your own DB you can change the URL in the config.env file this way you can connect to your own cluster**.  
+
 **use npm start to start the server**
 
 
