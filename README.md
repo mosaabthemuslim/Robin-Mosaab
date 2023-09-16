@@ -10,7 +10,7 @@
 
 **Inside the authController.js there is comments that explain the code**.  
 
-**The authController file is responsible for authentication with functions for signUp, logIn, protect for protecting routes from not signed In users, forget password that send reset token, resetPassword to reset the password based on the previews token, updateMe and updatePassword responsible for updating user Info and Password, deleteMe for setting the user active property in the user document to false**.  
+**The authController file is responsible for authentication with functions for signUp, logIn, protect for protecting routes from not signed In users, forgot password that send reset token, resetPassword to reset the password based on the previews token, updateMe and updatePassword responsible for updating user Info and Password, deleteMe for setting the user active property in the user document to false**.  
 
 ### Utils folder. 
 **appError file that Inside  class that send an error when called**.  
